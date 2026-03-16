@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ela</h1>
 <h3 align="center">Aspiring student interested in bioinformatics, molecular biology, genetics, and bioengineering. Exploring how computational methods and data-driven approaches can help understand complex biological systems.</h3>
-
+- Co-founder of MoveNCode https://ipekirazesin.github.io/MoveNCode/ 
+<p>An educational project that introduces active coding for children through short and playful ScratchJr mini-games. The project aims to reduce passive screen time, encourage movement, and develop early computational thinking skills.</p>
 <p align="left">
 </p>
 
